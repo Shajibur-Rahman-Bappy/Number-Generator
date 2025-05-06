@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+  background-color: beige;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+}
+
+#output {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-color: darkcyan;
+  }
+}/*# sourceMappingURL=style.css.map */
