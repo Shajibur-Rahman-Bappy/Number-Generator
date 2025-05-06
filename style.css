@@ -10,6 +10,10 @@ input, button {
   margin: 10px;
 }
 
+button {
+  cursor: pointer;
+}
+
 #output {
   margin-top: 20px;
   font-size: 18px;
